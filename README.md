@@ -12,7 +12,7 @@ Along with a basic Elasticsearch client (`elasticsearch-core`), helper functiona
 ## Install / Download
 The library components are offered a la carte:
 * `elasticsearch-core` contains the basic Elasticsearch client and typesafe DSL
-* `elasticsearch-aws` contains utilities for using [AWS Hosted Elasticsearch](https://aws.amazon.com/elasticsearch-service/).
+* `elasticsearch-aws` contains utilities for using [AWS Hosted   Elasticsearch](https://aws.amazon.com/elasticsearch-service/).
 * `elasticsearch-akka` contains Actors to use with Akka & Akka Streams
 * `elasticsearch-test` contains a test harness to test against a in JVM Elasticsearch instance
 ```
